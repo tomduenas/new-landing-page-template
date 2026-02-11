@@ -41,7 +41,7 @@ function App() {
                 Start Free Trial
               </button>
               <button className="px-8 py-3 border-2 border-black text-black hover:bg-black hover:text-white transition-colors font-bold text-sm">
-                Watch Demo
+                Watch The Demo
               </button>
             </div>
             <p className="text-xs text-gray-600 mt-6 font-semibold">No credit card required • 14-day free trial</p>
