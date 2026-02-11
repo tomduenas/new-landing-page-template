@@ -17,7 +17,7 @@ function App() {
             <a href="#testimonials" className="text-black hover:text-gray-600 transition-colors text-sm font-semibold">Testimonials</a>
             <a href="#pricing" className="text-black hover:text-gray-600 transition-colors text-sm font-semibold">Prices</a>
             <button className="px-4 py-2 bg-black text-white border border-black hover:bg-white hover:text-black transition-colors text-sm font-semibold">
-              Start Here
+              Start Now
             </button>
           </div>
         </div>
